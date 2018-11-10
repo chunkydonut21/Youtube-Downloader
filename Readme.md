@@ -16,7 +16,7 @@ Youtube Downloader is a Python Web application built with Django.
 # REQUIREMENTS
   - This App Uses Python 3.7, pafy, Django 2.1, youtube-dl.
 
-### Installation
+# Installation
 
 Install the dependencies and devDependencies and start the server.
 
