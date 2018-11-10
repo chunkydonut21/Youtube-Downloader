@@ -2,11 +2,8 @@ import pafy
 from django.http import HttpResponse
 from django.shortcuts import render
 from django.template.defaultfilters import filesizeformat
-from django.views import View
-from django.views.generic import TemplateView
 
 from .forms import DownloadForm
-
 
 def download_video(request):
     global context
