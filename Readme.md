@@ -22,7 +22,7 @@ Install the dependencies and devDependencies and start the server.
 
 ```sh
 $ git clone https://github.com/chunkydonut21/Youtube-Downloader.git
-$ cd YTVDownloader
+$ cd Youtube-Downloader
 $ pip install -r requirements.txt
 $ python manage.py runsever
 ```
